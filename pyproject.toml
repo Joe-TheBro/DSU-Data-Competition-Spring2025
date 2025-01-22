@@ -1,0 +1,10 @@
+[project]
+name = "dsu-data-competition-spring2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastexcel>=0.12.1",
+    "polars>=1.20.0",
+]
