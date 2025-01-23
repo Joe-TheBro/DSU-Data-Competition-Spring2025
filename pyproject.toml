@@ -5,7 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "altair>=5.5.0",
+    "darts>=0.32.0",
     "fastexcel>=0.12.1",
     "ipykernel>=6.29.5",
     "polars>=1.20.0",
+    "vegafusion[embed]>=2.0.1",
+    "vl-convert-python>=1.7.0",
 ]
