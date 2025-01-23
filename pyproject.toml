@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "fastexcel>=0.12.1",
+    "ipykernel>=6.29.5",
     "polars>=1.20.0",
 ]
