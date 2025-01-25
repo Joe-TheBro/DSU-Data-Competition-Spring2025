@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "altair>=5.5.0",
+    "altair>=5.4.0",
     "darts>=0.32.0",
     "fastexcel>=0.12.1",
     "ipykernel>=6.29.5",
