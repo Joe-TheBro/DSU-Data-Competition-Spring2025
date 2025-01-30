@@ -3,7 +3,7 @@ name = "dsu-data-competition-spring2025"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
     "altair>=5.4.0",
     "darts>=0.32.0",
